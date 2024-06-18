@@ -1,0 +1,31 @@
+{
+    "id": 2,
+    "code": "16YAVCRD01/BLK",
+    "description": "2016 Chardonnay YV/MP",
+    "secondaryDescription": "Bulk wine",
+    "type": {
+        "name": "Bulk wine",
+        "code": "BULK"
+    },
+    "beverageProperties": {
+        "colour": "DAC88B",
+        "description": "2016 Chardonnay YV/MP"
+    },
+    "unit": {
+        "name": "Litres",
+        "abbreviation": "L",
+        "precision": 0
+    },
+    "unitRequired": true,
+    "quantity": {
+        "onHand": 14200,
+        "committed": 0,
+        "ordered": 0
+    },
+    "owner": {
+        "id": 2,
+        "name": "vintrace Winery"
+    },
+    "images": [],
+    "components": []
+}

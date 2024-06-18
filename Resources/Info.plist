@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>CFBundleName</key>
+	<string>vintrace</string>
+	<key>UIUserInterfaceStyle</key>
+	<string>Light</string>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleLightContent</string>
+	<key>CFBundleIdentifier</key>
+	<string>co.nettrinity..vintrace</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Montserrat-UltraLight.otf</string>
+		<string>Montserrat-Bold.ttf</string>
+		<string>Montserrat-Light.otf</string>
+		<string>Montserrat-Regular.otf</string>
+		<string>Montserrat-SemiBold.otf</string>
+		<string>Montserrat-Italic.otf</string>
+	</array>
+</dict>
+</plist>

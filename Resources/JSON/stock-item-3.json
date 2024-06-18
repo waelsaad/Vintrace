@@ -1,0 +1,28 @@
+{
+    "id": 3,
+    "code": "BOT/STD/GREEN",
+    "description": "Standard green bottle",
+    "secondaryDescription": null,
+    "type": {
+        "name": "Bottle",
+        "code": "EMPTY_BOTTLE"
+    },
+    "beverageProperties": null,
+    "unit": {
+        "name": "Units",
+        "abbreviation": "unit",
+        "precision": 0
+    },
+    "unitRequired": false,
+    "quantity": {
+        "onHand": 54000,
+        "committed": 0,
+        "ordered": 3000
+    },
+    "owner": {
+        "id": 2,
+        "name": "vintrace Warehouse"
+    },
+    "images": [],
+    "components": []
+}

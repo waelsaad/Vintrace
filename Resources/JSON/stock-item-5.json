@@ -1,0 +1,28 @@
+{
+    "id": 5,
+    "code": "CAP/BLK",
+    "description": "Cap black standard",
+    "secondaryDescription": null,
+    "type": {
+        "name": "Dry goods",
+        "code": "DRY_GOODS"
+    },
+    "beverageProperties": null,
+    "unit": {
+        "name": "Units",
+        "abbreviation": "unit",
+        "precision": 0
+    },
+    "unitRequired": false,
+    "quantity": {
+        "onHand": 4820000,
+        "committed": 25000,
+        "ordered": 0
+    },
+    "owner": {
+        "id": 2,
+        "name": "vintrace Warehouse"
+    },
+    "images": [],
+    "components": []
+}

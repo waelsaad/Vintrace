@@ -1,0 +1,97 @@
+{
+    "id": 1,
+    "code": "CHRD/EU/2016",
+    "description": "Standard EU export bottle",
+    "secondaryDescription": "Bottle - 750 ml",
+    "type": {
+        "name": "Single x1",
+        "code": "BOTTLED_BEVERAGE"
+    },
+    "beverageProperties": {
+        "colour": "DAC88B",
+        "description": "2016 Chardonnay YV/MP"
+    },
+    "unit": {
+        "name": "Single bottle (x1)",
+        "abbreviation": "x1",
+        "precision": 0
+    },
+    "unitRequired": false,
+    "quantity": {
+        "onHand": 68000,
+        "committed": 20000,
+        "ordered": 35000
+    },
+    "owner": {
+        "id": 2,
+        "name": "vintrace Winery"
+    },
+    "images": [
+        {
+            "endpoint": "/images/wine-3"
+        },
+        {
+            "endpoint": "/images/wine-2"
+        },
+        {
+            "endpoint": "/images/wine-1"
+        },
+        {
+            "endpoint": "/images/wine-4"
+        }
+    ],
+    "components": [
+        {
+            "endpoint": "/stock-items/2",
+            "id": 2,
+            "code": "16YAVCRD01/BLK",
+            "description": "2016 Chardonnay YV/MP",
+            "unit": {
+                "description": "Litres",
+                "abbreviation": "L",
+                "precision": 0
+            },
+            "unitRequired": true,
+            "quantity": 9
+        },
+        {
+            "endpoint": "/stock-items/3",
+            "id": 3,
+            "code": "BOT/STD/GREEN",
+            "description": "Standard green bottle",
+            "unit": {
+                "description": "Single x1",
+                "abbreviation": "x1",
+                "precision": 0
+            },
+            "unitRequired": false,
+            "quantity": 12
+        },
+        {
+            "endpoint": "/stock-items/4",
+            "id": 4,
+            "code": "CASE/BLK",
+            "description": "Red blend case",
+            "unit": {
+                "description": "Unit",
+                "abbreviation": "unit",
+                "precision": 0
+            },
+            "unitRequired": false,
+            "quantity": 1
+        },
+        {
+            "endpoint": "/stock-items/5",
+            "id": 5,
+            "code": "CAP/BLK",
+            "description": "Cap black standardP",
+            "unit": {
+                "description": "Unit",
+                "abbreviation": "unit",
+                "precision": 0
+            },
+            "unitRequired": false,
+            "quantity": 12
+        }
+    ]
+}

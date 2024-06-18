@@ -1,0 +1,28 @@
+{
+    "id": 4,
+    "code": "CASE/BLK",
+    "description": "Red blend case",
+    "secondaryDescription": null,
+    "type": {
+        "name": "Dry goods",
+        "code": "DRY_GOODS"
+    },
+    "beverageProperties": null,
+    "unit": {
+        "name": "Units",
+        "abbreviation": "unit",
+        "precision": 0
+    },
+    "unitRequired": false,
+    "quantity": {
+        "onHand": 5000,
+        "committed": 8500,
+        "ordered": 1000
+    },
+    "owner": {
+        "id": 2,
+        "name": "vintrace Warehouse"
+    },
+    "images": [],
+    "components": []
+}
